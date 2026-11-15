@@ -13,3 +13,8 @@
 ## 修改网页
 
 入口文件是 `src/index.html`。修改后运行 `npm run build`，生成可直接打开的 `dist/index.html`。
+
+## 许可协议
+
+本项目采用 MIT 许可协议。
+详情请参阅 [LICENSE](LICENSE) 文件。
