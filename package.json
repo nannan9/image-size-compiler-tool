@@ -1,0 +1,9 @@
+{
+  "name": "picture-size-editor",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "package": "npm run build && tar.exe -a -cf dist/picture-size-editor.zip -C dist index.html"
+  }
+}
